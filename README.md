@@ -1,2 +1,2 @@
 # Java
-Programming Logic and object orientation in Java
+Activities in Java using Programming Logic and Object Orientation
